@@ -1,0 +1,5 @@
+Welcome to my GitHub page! Here, you'll find a collection of my completed data analysis projects. Each project is briefly summarized below for your convenience. For more in-depth details, please explore the individual project folders.
+
+* Customer Demographic Analysis for Bike Company: In this project, I conducted an in-depth analysis of customer demographics to refine sales strategies. This involved carefully cleaning the data and developing a user-friendly dashboard using Microsoft Excel, Pivot Tables, and Slicer for easy interpretation and actionable insights.
+
+* Financial Analysis of US Companies: "In this project, I conducted an extensive analysis to evaluate the financial health, operational efficiency, and strategic positioning of  US companies, developing user-friendly visualizations for easy interpretation. My role involved performing data cleaning, implementing a manual date column for enhanced analysis, and utilizing tools such as Power BI, Navigation page, and Slicer.
